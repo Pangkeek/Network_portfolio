@@ -9,8 +9,8 @@ This repository contains my assignments, labs, projects, and certificates relate
 
 ## 📄 Assignment
 
-| Parameter |
-| :-------- |
+| Parameter | File |
+| :-------- | :---- |
 | `Assignment 1` | [View](<Assignments/Personal essay .pdf>) |
 | `Assignment 2` | [View](<Assignments/Assignment 2 (3).pdf>) |
 | `Assignment 3` | [View](<Assignments/Assignment3 (1).pkt>) |
@@ -19,8 +19,8 @@ This repository contains my assignments, labs, projects, and certificates relate
 
 ## 🧪 Lab
 
-| Parameter |
-| :-------- |
+| Parameter | File |
+| :-------- | :---- |
 | `Lab 1` | [View](<Labs/Lab 1 Network.pdf>) |
 | `Lab 2` | [View](<Labs/Lab2.pdf>) |
 | `Lab 3` | [View](<Labs/Lab3 — MIME File Transfer over Router-on-a-Stick with Wireshark Analysis.pdf>) |
