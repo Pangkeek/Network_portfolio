@@ -1,11 +1,13 @@
 
 # Network Portfolio
 
-นายศุภวัฒน์ ข่ายทอง 673380062-2 Section.2
-
-Email : supawat.kh@kkumail.com
-
 This repository contains my assignments, labs, projects, and certificates related to Computer Networks and Network Programming.
+
+## 👤 About
+- 🎓 Computer science, Khon Kaen University
+- 🧒🏼 นายศุภวัฒน์ ข่ายทอง
+- 📧 supawat.kh@kkumail.com
+- 🆔 673380062-2 | Section 2
 
 ## 📄 Assignment
 
@@ -36,3 +38,5 @@ This repository contains my assignments, labs, projects, and certificates relate
 ## 🧑‍💻Netacad
 
 ![checkpoint](netacad/checkpoint.png)
+
+
